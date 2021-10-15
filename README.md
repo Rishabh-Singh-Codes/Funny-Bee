@@ -1,4 +1,5 @@
 # Funny-Bee(Chrome Extension) :honeybee:
+A Chrome Extension to view jokes.
 
 ## How to Use:
 * Click the extension logo in Chrome Extension section.
